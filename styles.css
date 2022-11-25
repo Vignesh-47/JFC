@@ -1,0 +1,45 @@
+h1{
+    background-color:red
+}
+
+.secondary{
+    background-color: yellow;
+    
+}
+.danger{
+    background-color: yellow;
+}
+
+a{
+    color:black;
+}
+p{
+    color:white;
+    font-size:xx-large;
+}
+body{
+   color: white;
+   background-color: black;
+}
+
+.navbar-brand{
+    background-color: red;
+}
+
+
+img{
+    border-image: 100%;
+    transition-duration: 2s;
+    border-radius: 4s;
+    background: 4s;
+}
+/* img:hover{
+    height:200px;
+    width:400px;
+    border-radius: 100%;
+    background: red;
+} */
+
+
+
+

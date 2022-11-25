@@ -1,0 +1,28 @@
+img{
+    border-image: 100%;
+    transition-duration: 2s;
+    border-radius: 4s;
+    background: 4s;
+    padding-left: 200px;
+} 
+ /* img:hover{
+    height:100px;
+    width:200px;
+    border-radius: 50%;
+    background: red;
+} */
+
+body{
+    background-color: black;
+}
+h1{
+    color: azure;
+}
+
+h2{
+    color: azure;
+}
+
+p{
+    color: azure;
+}

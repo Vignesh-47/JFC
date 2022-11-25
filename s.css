@@ -1,0 +1,12 @@
+body{
+    background-color:black;
+    color:white;
+    padding-left: 20px;
+}
+p{
+    text-align:top;
+    font-size: xx-large;
+    font-weight: 600;
+    font-style: oblique;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
